@@ -3,7 +3,7 @@ title: Creative Cloud - InDesign
 description: This is the home page of InDesign APIs 
 ---
  
-<Hero slots="image, icon, heading, text" variant="halfwidth" />
+<Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
@@ -11,8 +11,9 @@ description: This is the home page of InDesign APIs
 
 # Build a better document solution 
 
-Use InDesign’s suite of Plug-in, Scripting and Server SDKs, to fully extend and automate InDesign, InCopy, and InDesign Server. Distribute your plug-ins to everyone using Adobe Exchange. <br /><br /> With scripts leverage the power of InDesign to streamline editorial and publishing workflows of your users  
+Use InDesign’s suite of Plug-in, Scripting and Server SDKs, to fully extend and automate InDesign, InCopy, and InDesign Server. Distribute your plug-ins to everyone using Adobe Exchange. With scripts leverage the power of InDesign to streamline editorial and publishing workflows of your users  
 
+* [Start building today](https://console.adobe.io/downloads/id)
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
@@ -39,12 +40,12 @@ Build plug-ins, panels, and scripts that add custom features and functions: crea
 
 ### Leverage the power of InDesign Server
 
-InDesign Server’s multithreaded SOAP engine lets you build complete document management and publishing solutions.
+[InDesign Server’s](https://www.adobe.com/products/indesignserver.html) multithreaded SOAP engine lets you build complete document management and publishing solutions.
 
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![alt text](images/S_IlluIntegrateOtherApps_96.svg)
+![Linked windows icon](images/S_IlluIntegrateOtherApps_96.svg)
 
 ### Integrate with other apps
 
@@ -53,7 +54,7 @@ InDesign supports the Adobe Common Extensibility Platform (CEP), which lets you 
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![alt text](images/S_IlluImportExportXML_96.svg)
+![XML export icon](images/S_IlluImportExportXML_96.svg)
 
 ### Import, export, and process documents in XML-compatible format 
 
@@ -61,7 +62,7 @@ Use InDesign’s IDML, an XML-based format, to manipulate documents and their co
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![alt text](images/S_IlluScripting_96.svg)
+![Scirpting icon](images/S_IlluScripting_96.svg)
 
 ### Automate and add features with scripting
 
@@ -76,7 +77,7 @@ Create anything from simple automations to complex, cross-platform-compatible fe
 
 [InDesign Server Licensing Updates](https://medium.com/adobetech/licensing-updates-for-developers-using-indesign-server-32a16cae0bf5?source=friends_link&sk=fe6d0f9afcd44f27366bb52f75b69a3b)
 
-![Resource 3](images/resource3.png)
+![Plugin graphic](images/resource3.png)
 
 
 ### Adobe InDesign Server Licensing Updates
